@@ -1,0 +1,9 @@
+/* navbar style */
+.navbar {
+    background-color: #7e9d7b!important;
+    width: 100%
+}
+  
+.navbar-brand {
+    font-family: 'DM Serif Display', serif;
+}
