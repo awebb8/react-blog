@@ -1,9 +1,16 @@
 import React from 'react';
+import Header from '../components/Header/Header';
 
 function Landing() {
     return (
         <div>
-            This is the landing page.
+
+            <Header />
+
+            <div>
+                This is the landing page.
+            </div>
+
         </div>
     );
 };
